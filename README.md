@@ -10,7 +10,7 @@ Generate a seed/address pair for BANANO using Matoking's nanolib library https:/
 
 ## Requirements
 
-- Python 3..6.9+
+- Python 3.6.9+
 - Pip
   - nanolib
 
