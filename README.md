@@ -29,3 +29,9 @@ sudo apt install build-essential python3-dev`
 ```
 ## Usage
 simply run the script and a seed/address pair will be returned on screen
+
+## What is BANANO?
+https://banano.cc/
+
+### credits :
+thanks to Matoking for the [nanolib](https://github.com/Matoking/nanolib)
