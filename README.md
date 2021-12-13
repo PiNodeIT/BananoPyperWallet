@@ -6,7 +6,7 @@ a small python script that uses the nanolib to create seed/address pairs for BAN
 # only tested on linux
 
 ## Feature
-Generate a seed/addres pair for BANANO using Matoking's nanolib library https://github.com/Matoking/nanolib
+Generate a seed/address pair for BANANO using Matoking's nanolib library https://github.com/Matoking/nanolib
 
 ## Requirements
 
