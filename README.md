@@ -26,7 +26,7 @@ sudo apt install build-essential python3-dev
 ```
 install the requirements
 ```sh
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
