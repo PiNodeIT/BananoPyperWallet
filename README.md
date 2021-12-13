@@ -14,6 +14,8 @@ Generates a seed/addres pair for BANANO Generate a seed/addres pair for BANANO u
 
 ## Installation
 
+Clone or download therepo
+
 if you haven't done so yet, install pip
 ```sh
 sudo apt install python3-pip
