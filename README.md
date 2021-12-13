@@ -31,7 +31,9 @@ pip3 install -r requirements.txt
 
 ## Usage
 simply run the script and a seed/address pair will be returned on screen
-
+```sh
+python3 bananopyper.py
+```
 ## What is BANANO?
 https://banano.cc/
 
