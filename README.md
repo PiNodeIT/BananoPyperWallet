@@ -1,3 +1,7 @@
+CHANGELOG 0.0.2
+- add possibility to create multiple wallet at once
+- seed/address pair ar stored in a txt named by user 
+
 # BananoPyperWallet
 a small python script that uses the nanolib to create seed/address pairs for BANANO
 
@@ -32,7 +36,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-simply run the script and a seed/address pair will be returned on screen
+run the script, enter the number of seed/address pair to be generated , enter a filename (without extension) where to save your results
 ```sh
 python3 bananopyper.py
 ```
@@ -41,3 +45,5 @@ https://banano.cc/
 
 ### credits :
 thanks to Matoking for the [nanolib](https://github.com/Matoking/nanolib)
+
+donate: ban_3donateh4ogxbk8kmefcpd7hg77sgxatmbpbbjwx8bg358xbh7ox7dy1t85m
