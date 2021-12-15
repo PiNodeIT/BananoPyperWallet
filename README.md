@@ -45,3 +45,5 @@ https://banano.cc/
 
 ### credits :
 thanks to Matoking for the [nanolib](https://github.com/Matoking/nanolib)
+
+donate: ban_3donateh4ogxbk8kmefcpd7hg77sgxatmbpbbjwx8bg358xbh7ox7dy1t85m
