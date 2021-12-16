@@ -9,6 +9,6 @@ name = input("Save as (no extension) :\n")
 for _ in range(nwall):
     seed = generate_seed()
     account_id = generate_account_id(seed, 0)
-    address = account_id.replace("xrb", "ban")
+    address = account_id.replace("xrb_", "ban_")
     f = open((name)+".txt", 'a')
     f.write("seed: "+(seed)+", Address: "+(address)+("\n"))
